@@ -1,0 +1,5 @@
+git add <nombe del archivo>
+Pemite añadi un archivo
+
+git commit -m "comandos de git" <nombe del archivo>
+subir el archivo en el repositorio local
